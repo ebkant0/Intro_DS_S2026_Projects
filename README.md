@@ -27,7 +27,7 @@ Group project analyzing 1994 US Census Bureau data to determine which factors ar
 - Workclass type was associated with stronger earning potential
 - Age showed a noticeable pattern — older individuals appeared more often in the higher income category
 
-**Team:** Blayne Dunn, Chiebuka Onwuka, Alexander Tewobola
+**Team:** Chiebuka Onwuka, Blayne Dunn, Alexander Tewobola
 
 **Files:**
 - `Project_2/` — Jupyter notebooks (Part 1 & Part 2), HTML exports, cleaned CSV, and presentation slides
